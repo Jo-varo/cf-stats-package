@@ -1,6 +1,6 @@
 {
   "name": "@jo-varo/cf-stats-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Functions to get stats",
   "main": "index.js",
   "scripts": {
