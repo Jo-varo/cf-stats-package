@@ -1,4 +1,7 @@
 function promedio(arr) {
+  if (!Array.isArray(arr) || arr.length === 0) {
+    throw new Error("Input must be a non-empty array");
+  }
   return arr.reduce((a, b) => a + b, 0) / arr.length;
 }
 
