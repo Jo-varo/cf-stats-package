@@ -1,5 +1,5 @@
 {
-  "name": "cf-stats-package",
+  "name": "@jo-varo/cf-stats-package",
   "version": "1.0.0",
   "description": "Functions to get stats",
   "main": "index.js",
